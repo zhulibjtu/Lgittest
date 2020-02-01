@@ -12,6 +12,8 @@ for i in range(30000):
 moneyarray.sort()
 x = np.arange(100)
 
+
+
 plt.figure()
 plt.bar(x,moneyarray)
 plt.show()
